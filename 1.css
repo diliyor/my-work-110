@@ -1,0 +1,48 @@
+.qw {border-radius: 50%;
+background-color: cornflowerblue;
+width: 200px; height: 200px;}
+.qwe {border-radius: 50%;
+background-color: orange;
+width: 200px; height: 200px;}
+.qwer {border-radius: 50%;
+background-color: green;
+width: 200px; height: 200px;}
+.qwert {border-radius: 50%;
+background-color: red;
+width: 200px; height: 200px;}
+.qwerty {border: 0px;
+background-color: cornflowerblue;
+width: 200px; height: 200px;}
+.qwertyu {border-radius: 0px;
+background-color: orange;
+width: 200px; height: 200px;}
+.qwertyui {border-radius: 0px;
+background-color: green;
+width: 200px; height: 200px;}
+.qwertyuio {border-radius: 0px;
+background-color: red;
+width: 200px; height: 200px;}
+.qwertyuiop {border-top-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-right-radius: 50%;
+border-bottom-left-radius: 50%;
+background-color: cornflowerblue;
+width: 200px; height: 200px;}
+.qwertyuiopa {border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    background-color: orange;
+    width: 200px; height: 200px;}
+    .qwertyuiopas {border-top-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+        background-color: green;
+        width: 200px; height: 200px;}
+        .qwertyuiopasd {border-top-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+            border-top-right-radius: 50%;
+            border-bottom-left-radius: 50%;
+            background-color: red;
+            width: 200px; height: 200px;}
